@@ -8,5 +8,7 @@
 </head>
 <body>
 충돌 테스트 
+fix1 브랜치에서 입력
+- 충돌 해결 : add to index 해주고 다시 커밋하면 되나?
 </body>
 </html>
